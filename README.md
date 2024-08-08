@@ -11,7 +11,7 @@ The dataset used for this project can be found on Kaggle. It contains a collecti
 Here is a link to dataset
 https://www.kaggle.com/datasets/team-ai/spam-text-message-classification/data
 
-## Installation
+## Installations
 To run this project locally, you'll need to install the necessary dependencies, including libraries such as NumPy, Pandas, Matplotlib, WordCloud, NLTK, and Scikit-learn. Additionally, NLTK datasets like stopwords and punkt are required for text processing aslo installed CountVectorizer and TfidfVectorizer.
   
 ## Data Preprocessing
