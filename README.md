@@ -14,3 +14,17 @@ https://www.kaggle.com/datasets/team-ai/spam-text-message-classification/data
 ## Installation
 To run this project locally, you'll need to install the necessary dependencies, including libraries such as NumPy, Pandas, Matplotlib, WordCloud, NLTK, and Scikit-learn. Additionally, NLTK datasets like stopwords and punkt are required for text processing.
   
+## Data Preprocessing
+
+The preprocessing steps involved:
+
+1. Column Renaming: The dataset's columns were renamed for clarity.
+2. Label Encoding: The target labels were encoded to numerical values.
+3. Feature Engineering: Features such as the number of characters, words, and sentences in each message were extracted.
+4. Text Preprocessing:
+* Conversion of text to lowercase.
+* Tokenization of text into individual words.
+* Removal of special characters, stopwords, and punctuation.
+* Stemming of words to their root form.
+  
+These steps helped to standardize and clean the data, making it suitable for model training.
