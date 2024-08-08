@@ -22,9 +22,9 @@ The preprocessing steps involved:
 2. Label Encoding: The target labels were encoded to numerical values.
 3. Feature Engineering: Features such as the number of characters, words, and sentences in each message were extracted.
 4. Text Preprocessing:
-* Conversion of text to lowercase.
-* Tokenization of text into individual words.
-* Removal of special characters, stopwords, and punctuation.
-* Stemming of words to their root form.
+  * Conversion of text to lowercase.
+  * Tokenization of text into individual words.
+  * Removal of special characters, stopwords, and punctuation.
+  * Stemming of words to their root form.
   
 These steps helped to standardize and clean the data, making it suitable for model training.
