@@ -25,7 +25,7 @@ The preprocessing steps involved:
       * Conversion of text to lowercase.
       * Tokenization of text into individual words.
       * Removal of special characters, stopwords, and punctuation.
-       * Stemming of words to their root form.
+      * Stemming of words to their root form.
   
 These steps helped to standardize and clean the data, making it suitable for model training.
 
