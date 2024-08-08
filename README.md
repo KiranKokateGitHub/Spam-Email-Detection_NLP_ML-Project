@@ -6,7 +6,7 @@
 * The primary goal of this project is to develop a predictive model that accurately classifies incoming SMS messages as either ham or spam. We will use the SMS Spam Collection dataset, which consists of 5,574 SMS messages tagged with their respective labels. </span>
 
 ## Dataset
-The dataset used for this project can be found on Kaggle: 
+The dataset used for this project can be found on Kaggle. It contains a collection of email messages labeled as either 'spam' or 'ham'. 
 
 Here is a link to dataset
 https://www.kaggle.com/datasets/team-ai/spam-text-message-classification/data
