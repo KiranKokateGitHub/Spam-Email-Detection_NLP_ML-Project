@@ -50,3 +50,7 @@ The performance of the models was evaluated using metrics such as accuracy, prec
 * Naive Bayes (NB): Stood out with a perfect precision score, indicating zero false positives.
 * Other models, including Gradient Boosting, Adaboost, Logistic Regression, and Bagging Classifier, also demonstrated competitive performance with accuracy scores ranging from 94.68% to 96.03%.
 
+
+## Conclusion
+
+The project successfully implemented several machine learning models for spam email classification. The Support Vector Classifier and Random Forest models demonstrated the best overall performance. The Naive Bayes model, with its perfect precision, is particularly effective in scenarios where minimizing false positives is crucial.
