@@ -42,3 +42,11 @@ Various machine learning models were trained and evaluated to determine the best
   
 The text data was vectorized using methods like **CountVectorizer** and **TfidfVectorizer**. The dataset was then split into training and testing sets to assess model performance.
 
+## Evaluation
+
+The performance of the models was evaluated using metrics such as accuracy, precision, recall, and F1-score.
+
+* **Support Vector Classifier (SVC)** and **Random Forest (RF)**: Both models achieved the highest accuracy of approximately **97.58%**.
+* Naive Bayes (NB): Stood out with a perfect precision score, indicating zero false positives.
+* Other models, including Gradient Boosting, Adaboost, Logistic Regression, and Bagging Classifier, also demonstrated competitive performance with accuracy scores ranging from 94.68% to 96.03%.
+
