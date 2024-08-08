@@ -7,4 +7,7 @@
 
 ## Dataset
 The dataset used for this project can be found on Kaggle: Here is a link to dataset
+https://www.kaggle.com/datasets/team-ai/spam-text-message-classification/data
+
+
   
