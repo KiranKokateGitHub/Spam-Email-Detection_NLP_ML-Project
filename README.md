@@ -53,4 +53,4 @@ The performance of the models was evaluated using metrics such as accuracy, prec
 
 ## Conclusion
 
-The project successfully implemented several machine learning models for spam email classification. The Support Vector Classifier and Random Forest models demonstrated the best overall performance. The Naive Bayes model, with its perfect precision, is particularly effective in scenarios where minimizing false positives is crucial.
+The project successfully implemented several machine learning models for spam email classification. **The Support Vector Classifier and Random Forest models demonstrated the best overall performance**. The Naive Bayes model, with its perfect precision, is particularly effective in scenarios where minimizing false positives is crucial.
