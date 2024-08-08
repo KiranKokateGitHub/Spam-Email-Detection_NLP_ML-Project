@@ -12,7 +12,7 @@ Here is a link to dataset
 https://www.kaggle.com/datasets/team-ai/spam-text-message-classification/data
 
 ## Installation
-To run this project locally, you'll need to install the necessary dependencies, including libraries such as NumPy, Pandas, Matplotlib, WordCloud, NLTK, and Scikit-learn. Additionally, NLTK datasets like stopwords and punkt are required for text processing.
+To run this project locally, you'll need to install the necessary dependencies, including libraries such as NumPy, Pandas, Matplotlib, WordCloud, NLTK, and Scikit-learn. Additionally, NLTK datasets like stopwords and punkt are required for text processing aslo installed CountVectorizer and TfidfVectorizer.
   
 ## Data Preprocessing
 
@@ -39,5 +39,6 @@ Various machine learning models were trained and evaluated to determine the best
 * Adaboost
 * Logistic Regression
 * Bagging Classifier
-The text data was vectorized using methods like CountVectorizer and TfidfVectorizer. The dataset was then split into training and testing sets to assess model performance.
+  
+The text data was vectorized using methods like **CountVectorizer** and **TfidfVectorizer**. The dataset was then split into training and testing sets to assess model performance.
 
