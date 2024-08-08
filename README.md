@@ -20,7 +20,7 @@ The preprocessing steps involved:
 
 1. **Column Renaming**: The dataset's columns were renamed for clarity.
 2. **Label Encoding:** The target labels were encoded to numerical values.
-3. ** Feature Engineering:** Features such as the number of characters, words, and sentences in each message were extracted.
+3. **Feature Engineering:** Features such as the number of characters, words, and sentences in each message were extracted.
 4. **Text Preprocessing:**
       * Conversion of text to lowercase.
       * Tokenization of text into individual words.
