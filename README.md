@@ -28,3 +28,16 @@ The preprocessing steps involved:
        * Stemming of words to their root form.
   
 These steps helped to standardize and clean the data, making it suitable for model training.
+
+## Modeling
+Various machine learning models were trained and evaluated to determine the best-performing algorithm for spam classification. The models tested include:
+
+* Support Vector Classifier (SVC)
+* Random Forest (RF)
+* Naive Bayes (NB)
+* Gradient Boosting
+* Adaboost
+* Logistic Regression
+* Bagging Classifier
+The text data was vectorized using methods like CountVectorizer and TfidfVectorizer. The dataset was then split into training and testing sets to assess model performance.
+
